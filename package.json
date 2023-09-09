@@ -2,7 +2,7 @@
   "name": "projectteam7",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://DiBaranovska.github.io/projectTeam7/",
+  "homepage": "https://GoitStudentsWorks.github.io/react_node_fs72_DiBaranovska/",
   "dependencies": {
     "@reduxjs/toolkit": "^1.9.5",
     "axios": "^1.4.0",
